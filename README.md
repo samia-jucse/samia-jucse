@@ -53,6 +53,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%230A0A0A.svg?style=flat&logo=devops&logoColor=white)
 <br/>
+![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-%2340873C.svg?style=flat&logo=overleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
