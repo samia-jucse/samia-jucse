@@ -35,8 +35,11 @@
 </div>
 
 # Online Judge Handles:
-[![LeetCode](https://img.shields.io/badge/LeetCode-0056A8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_samia_29/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-00A3E0?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/__Samia__)
+ [![LeetCode](https://img.shields.io/badge/LeetCode-0056A8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_samia_29/) 
+ [![CodeChef](https://img.shields.io/badge/CodeChef-5B9F3D?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/samia_2949) 
+ [![AtCoder](https://img.shields.io/badge/AtCoder-00A2E4?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/_biral_)
+
 
 # 💻 Languages:
 
