@@ -34,6 +34,10 @@
   </a>
 </div>
 
+# Online Judge Handles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-0056A8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_samia_29/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-00A3E0?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/__Samia__)
+
 # 💻 Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=black&Color=black)
