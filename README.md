@@ -15,7 +15,7 @@
 
 💬 Ask me about **Python, React, Firebase ,Html ,Css ,Django**
 
- I am interested in **Machine Learning and Data Science**
+ I am interested in **NLP and Data Science**
  
  I contributed to the **NCPC** website with my team
 
